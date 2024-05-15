@@ -10,3 +10,16 @@
   - [Web Scraper Application](https://github.com/marktmyers/web-scaper)
   - Future features
       - Built in data visualization
+
+<h2>👨‍💻 Web Development Projects:</h2>
+
+- <b>Peer Instruction Tool </b>
+  - [Peer Instruction](https://github.com/marktmyers/peer-instruction)
+  - Future features
+      - Add a way to visit a link instead of just the qr code
+      - Get a domain and droplet to host on
+   
+<h2>👨‍💻 Research Projects:</h2>
+
+- <b>Matrix Math with RAJA</b>
+  - [Matrix Math](https://github.com/marktmyers/matrix-math)
