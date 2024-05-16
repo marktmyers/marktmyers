@@ -11,6 +11,10 @@
   - Future features
       - Built in data visualization
 
+<h2>👨‍💻 Database Projects:</h2>
+- <b>Hotel Database</b>
+  - [Hotel Database](https://github.com/marktmyers/hotel)
+
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Peer Instruction Tool </b>
